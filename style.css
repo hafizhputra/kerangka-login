@@ -1,0 +1,55 @@
+body{
+  /* background-image: url('img/18.jpg'); */
+
+}
+
+
+/* navbar */
+
+@font-face {
+  font-family: "Billabong";
+  src: url('font/Billabong.ttf') format('truetype');
+  }
+
+
+
+.navbar h1{
+  font-family:"Billabong",arial;
+  color:rgb(10, 255, 194);
+  font-size: 40px;
+
+}
+
+
+/* content */
+
+.content{
+  height: 350px;
+}
+
+
+
+.boxinputuser input{
+  padding: 10px 10px;
+  width: 200px;
+}
+
+
+.boxinputpass input{
+  padding: 10px 10px;
+  width: 200px;
+}
+
+.boxbutton button{
+  padding: 12px 10px;
+  width: 222px;
+  cursor: pointer;
+}
+
+.boxbutton b{
+  font-size: 16px;
+}
+
+.facebook p{
+  cursor: pointer;
+}
